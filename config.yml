@@ -10,60 +10,61 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: fgbona
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Fernando Bona"
+  tagline: "DevSecOps Engineer, Infrastructure Architect & AI Systems Builder"
+  company: "Calian IT & Cyber Solutions  / Utech Solutions"
+  location: "Brazil / Italy / Canada / Remote"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    DevSecOps engineer focused on building secure, scalable, and autonomous infrastructure.
+    I design and operate Kubernetes clusters, multi-cloud environments, and high-performance on-prem systems.
+    Creator of platforms like Riskentia and Elaboral, integrating security, automation, and AI.
+    Passionate about distributed systems, infrastructure as code, and self-hosted AI.
+  philosophy: '"Automation is not optional. It is the foundation of reliable systems."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "fernnadobona@gmail.com"
+  linkedin: "fbona"
+  website: "https://appsec.com.br"
+
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "Frontend"
-    color: "dendrite_violet"
-    items:
-      - "TypeScript"
-      - "React"
-      - "CSS"
-  - name: "Backend"
+  - name: "Infrastructure & Kubernetes"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
-      - "PostgreSQL"
-  - name: "DevOps"
+      - "Kubernetes"
+      - "RKE2"
+      - "Proxmox"
+      - "HAProxy"
+      - "Linux"
+      - "Networking"
+
+  - name: "DevSecOps & Automation"
     color: "axon_amber"
     items:
+      - "Ansible"
       - "Docker"
       - "GitHub Actions"
-      - "AWS"
+      - "Terraform"
+      - "CI/CD"
+      - "Security"
 
 # Featured projects shown as constellation stars
-# Each project needs:
-#   repo: "owner/repo-name"   — GitHub repository path
-#   arm: 0-2                  — Which galaxy arm to associate with (index)
-#   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
-    arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
-    arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+  - repo: "thiagobissoli/Riskentia"
+    arm: 2
+    description: "Security and compliance platform integrating automation, risk analysis, and AI."
+
+  - repo: "thiagobissoli/eLaboral"
+    arm: 2
+    description: "Full-stack SaaS platform with scalable backend, async processing, and containerized deployment."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
