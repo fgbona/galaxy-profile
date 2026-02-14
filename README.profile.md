@@ -1,6 +1,6 @@
 <!-- Galaxy Profile README Template
      Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
+     in your GitHub profile repo (github.com/fgbona).
      The SVG paths below point to assets/generated/ which are auto-generated
      by the GitHub Actions workflow or by running: python -m generator.main -->
 
@@ -33,19 +33,28 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+DevSecOps engineer specializing in secure, scalable, and automated infrastructure.
 
-**Currently at** Stellar Labs — San Francisco, CA
+I design and operate Kubernetes clusters, multi-cloud environments, and high-performance on-prem systems.
+Creator of platforms like Riskentia and Elaboral, focused on security, automation, and distributed architecture.
+
+My work spans infrastructure as code, container orchestration, security hardening, observability, and self-hosted AI systems.
+
+**GitHub:** https://github.com/fgbona  
+**Focus areas:** DevSecOps, Kubernetes, Automation, Security, and AI Infrastructure  
+
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:fernandobona@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/fbona/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/fgbona">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=ffb020" alt="GitHub"/>
   </a>
 </div>
